@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "witherproof:treated_obsidian"
+    },
+ 
+    {
+      "item": "witherproof:reinforcement"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "witherproof:reinforced_obsidian",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "OOO",
+        "OEO",
+        "OOO"
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        },
+    
+        "E":
+        {
+            "item": "minecraft:end_stone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "witherproof:compressed_obsidian",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " H ",
+        "HDH",
+        " H "
+    ],
+   
+    "key":{
+        "H":{
+            "item": "witherproof:hardened_bars"
+        },
+        
+        "D":{
+            "item": "witherproof:hardened_diamond"
+         }
+    },
+   
+    "result":{
+        "item": "witherproof:reinforcement",
+        "count": 4
+    }
+}

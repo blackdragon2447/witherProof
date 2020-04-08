@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:diamond_axe"
+    },
+ 
+    {
+      "item": "witherproof:reinforcement"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "witherproof:reinforced_diamond_axe",
+        "count": 1
+    }
+}

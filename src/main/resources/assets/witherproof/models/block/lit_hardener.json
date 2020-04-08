@@ -1,0 +1,13 @@
+{
+    "parent": "block/orientable",
+    "textures":
+    {
+        "particle": "wihterproof:blocks/hardener_front_off",
+        "up": "wihterproof:blocks/hardener_front_off",
+        "down": "wihterproof:blocks/hardener_front_off",
+        "north": "wihterproof:blocks/hardener_front_on",
+        "east": "wihterproof:blocks/hardener_front_side",
+        "south": "wihterproof:blocks/hardener_front_side",
+        "west": "wihterproof:blocks/hardener_front_side",
+    }
+}

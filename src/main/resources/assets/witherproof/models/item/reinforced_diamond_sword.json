@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "witherproof:items/reinforced_diamond_sword"
+   }
+}

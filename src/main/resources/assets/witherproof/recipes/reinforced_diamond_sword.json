@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:diamond_sword"
+    },
+ 
+    {
+      "item": "witherproof:reinforcement"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "witherproof:reinforced_diamond_sword",
+        "count": 1
+    }
+}

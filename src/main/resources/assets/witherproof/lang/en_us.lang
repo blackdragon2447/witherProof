@@ -1,0 +1,13 @@
+//items
+item.reinforcement.name=Reinforcement
+item.hardened_diamond.name=Hardened Diamond
+item.hardened_bars.name=Hardened Bars
+item.reinforced_diamond_sword.name= Reinfrced Diamond Sword
+item.reinforced_diamond_axe.name= Reinfrced Diamond Axe
+
+//blocks
+tile.reinforced_obsidian.name=Reinforced Obsidian
+tile.compressed_obsidian.name=Compressed Obsidian
+tile.treated_obsidian.name=Treated Obsidian
+tile.hardener.name= Hardener
+container.hardener= Hardener
