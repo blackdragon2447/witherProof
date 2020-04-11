@@ -2,10 +2,13 @@ package com.blackdragon2447.witherproof.util.handelers;
 
 import com.blackdragon2447.witherproof.Main;
 import com.blackdragon2447.witherproof.Init.ModBlocks;
+import com.blackdragon2447.witherproof.Init.ModEnchantments;
 import com.blackdragon2447.witherproof.Init.ModItems;
+import com.blackdragon2447.witherproof.enchantments.EnchantementWitherBane;
 import com.blackdragon2447.witherproof.util.IHasModel;
 
 import net.minecraft.block.Block;
+import net.minecraft.enchantment.Enchantment;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
@@ -25,6 +28,11 @@ public class RegistryHandler {
 	public static void onblockRegister(RegistryEvent.Register<Block> event) {
 		event.getRegistry().registerAll(ModBlocks.BLOCKS.toArray(new Block[0]));
 		TileEntityHandler.registerTileEntities();
+	}
+	
+	@SubscribeEvent
+	public static void onEnchantmentRegister(RegistryEvent.Register<Enchantment> event) {
+		event.getRegistry().registerAll(ModEnchantments.ENCHANTMENTS.toArray(new Enchantment[0]));
 	}
 	
 	@SubscribeEvent

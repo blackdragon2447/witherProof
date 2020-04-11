@@ -3,23 +3,21 @@
     
     "pattern":
     [
-        "OOO",
-        "OOO",
-        "OOO"
+        "DD",
+        " D"
     ],
     
     "key":
     {
-        "O":
+        "D":
         {
-            "item": "minecraft:obsidian"
+            "item": "minecraft:diamond"
         }
-    
     },
     
     "result":
     {
-        "item": "witherproof:compressed_obsidian",
+        "item": "witherproof:axe_head",
         "count": 1
     }
 }

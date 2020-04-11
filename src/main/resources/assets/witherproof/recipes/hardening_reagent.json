@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "witherproof:mortar_and_pestle"
+    },
+ 
+    {
+      "item": "witherproof:fire_proofing_reagent"
+    },
+    
+    {
+      "item": "minecraft:end_stone"
+    },
+    
+    {
+      "item": "minecraft:chorus_fruit"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "witherproof:hardening_reagent",
+        "count": 1
+    }
+}

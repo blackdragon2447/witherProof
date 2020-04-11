@@ -3,23 +3,22 @@
     
     "pattern":
     [
-        "OOO",
-        "OOO",
-        "OOO"
+        " O ",
+        "O O",
+        " O "
     ],
     
     "key":
     {
         "O":
         {
-            "item": "minecraft:obsidian"
+            "item": "minecraft:obsidain"
         }
-    
     },
     
     "result":
     {
-        "item": "witherproof:compressed_obsidian",
+        "item": "witherproof:obsidain_frame",
         "count": 1
     }
 }

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "witherproof:mortar_and_pestle"
+    },
+ 
+    {
+      "item": "minecraft:netherrack"
+    },
+    
+    {
+      "item": "minecraft:magma_cream"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "witherproof:fire_proofing_reagent",
+        "count": 1
+    }
+}
